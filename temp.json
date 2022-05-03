@@ -1,0 +1,46 @@
+{
+    "success":true,
+    "data":{
+        "user":{
+            "_id":"624567b6fcc189e396234b4c",
+            "username":"killet",
+            "role":"user",
+            "ts":"2022-03-31T08:35:02.482Z",
+            "badges":[],
+            "xp":371392,
+            "gamesplayed":763,
+            "gameswon":362,
+            "gametime":133051.1768888889,
+            "country":"US",
+            "supporter_tier":0,
+            "verified":false,
+            "league":{
+                "gamesplayed":24,
+                "gameswon":10,
+                "rating":5984.685719185531,
+                "glicko":1195.7213654686548,
+                "rd":89.32564617262521,
+                "rank":"b",
+                "apm":14.02,
+                "pps":0.8,
+                "vs":29.16,
+                "decaying":true,
+                "standing":30817,
+                "percentile":0.6999500295280062,
+                "standing_local":6503,
+                "prev_rank":"b-",
+                "prev_at":30818,
+                "next_rank":"b+",
+                "next_at":27297,
+                "percentile_rank":"b"
+            },
+                
+            "friend_count":6
+        }
+    },
+        "cache":{
+            "status":"miss",
+            "cached_at":1651502353374,
+            "cached_until":1651502653374
+        }
+}

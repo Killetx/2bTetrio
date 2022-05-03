@@ -1,0 +1,13 @@
+{
+  "name": "tetrio",
+  "version": "0.0",
+  "description": "2b2t Tetris Bot.",
+  "main": "index.js",
+  "author": "Killet",
+  "license": "unlicense",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "node.js": "0.0.1-security"
+  }
+}
