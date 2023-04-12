@@ -9,7 +9,7 @@ The original intent was for this bot to live in https://discord.gg/gDmbRZYXFW an
 It interfaces with the Tetr.io API, and returns user information accordingly.
 
 
-============================================================
+
 This was the OLD TODO:
 ============================================================
 What currently works:
