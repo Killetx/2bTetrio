@@ -1,0 +1,49 @@
+{
+    "success": true,
+    "data": {
+      "user": {
+        "_id": "5ef08cb891aae26c127683e8",
+        "username": "odpay",
+        "role": "user",
+        "ts": "2020-06-22T10:49:28.541Z",
+        "badges": [],
+        "xp": 444766,
+        "gamesplayed": 843,
+        "gameswon": 191,
+        "gametime": 158029.51555555538,
+        "country": "AU",
+        "supporter": false,
+        "supporter_tier": 0,
+        "verified": false,
+        "league": {
+          "gamesplayed": 76,
+          "gameswon": 37,
+          "rating": 3168.0221757905997,
+          "glicko": 994.4885017104359,
+          "rd": 77.07359049122962,
+          "rank": "c+",
+          "apm": 16.04,
+          "pps": 0.93,
+          "vs": 30.16,
+          "decaying": true,
+          "standing": 36820,
+          "percentile": 0.8299857983363765,
+          "standing_local": 1793,
+          "prev_rank": "c",
+          "prev_at": 37263,
+          "next_rank": "b-",
+          "next_at": 34602,
+          "percentile_rank": "c+"
+        },
+        "avatar_revision": 1648725000422,
+        "banner_revision": 1648787848113,
+        "bio": "***miau***",
+        "friend_count": 21
+      }
+    },
+    "cache": {
+      "status": "miss",
+      "cached_at": 1651933163772,
+      "cached_until": 1651933463772
+    }
+  }
